@@ -18,7 +18,6 @@ class TodoClass {
             this.display();
             document.querySelector("#addList").value = '';
         }
-
     }
     doneUndone(x){
 
